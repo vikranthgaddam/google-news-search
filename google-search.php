@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Google News Search
-Description: Display a search form to search Google News XML/RSS Feed with pagination
+Description: Display a search form to search Google News XML/RSS Feed 
 Version: 1.1
-Author: Your Name
+Author: Vikranth Gaddam
 */
 
 // Register the shortcode
